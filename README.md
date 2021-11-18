@@ -34,4 +34,4 @@ Mi nombre es Christian Parra, actualmente soy estudiante de Ingeniería Civil en
 ### Contacto
 [![alttext](https://img.shields.io/badge/LinkedIn-Christian_Parra-informational?style=flat&logo=linkedin&logoColor=white&color=blueviolet)](https://www.linkedin.com/in/christian-jesús-parra-cofré-222015226/)
 [![alttext](https://img.shields.io/badge/Instagram-ChrisMeth-informational?style=flat&logo=instagram&logoColor=white&color=blueviolet)](https://www.instagram.com/chrismeth)
-[![alttext](https://img.shields.io/badge/Correo-Christian_Parra-informational?style=flat&logo=mail.ru&logoColor=white&color=blueviolet)](mailto:christian.parra@gug.uchile.cl)
+
