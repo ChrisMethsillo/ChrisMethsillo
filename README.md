@@ -24,7 +24,6 @@ Mi nombre es Christian Parra, actualmente soy estudiante de Ingeniería Civil en
   ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=red)
   ![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=red)
   ![](https://img.shields.io/badge/Shell-Windows_Terminal-informational?style=flat&logo=windowsterminal&logoColor=white&color=red)
-  ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnubash&logoColor=white&color=red)
   ![](https://img.shields.io/badge/Tools-Google_Cloud-informational?style=flat&logo=googlecloud&logoColor=white&color=red)
   ![](https://img.shields.io/badge/Tools-Google_Colab-informational?style=flat&logo=googlecolab&logoColor=white&color=red)
   
