@@ -1,6 +1,6 @@
 # Hola!🙂
 
-Mi nombre es Christian Parra, actualmente soy estudiante de Ingeniería Civil en Computación de la Universidad de Chile. Igual a la mayoria, me gusta mucho el mundo de la programación y todas las ñoñerias que abarca este universo.
+Mi nombre es Christian Parra, actualmente soy estudiante de Ingeniería Civil en Computación de la Universidad de Chile. Aqui generalmente subo mis tareas o pequeños proyectos que he desarrollado a lo largo de mi vida como developer 
 
 ---
 ### Herramientas que manejo 
