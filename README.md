@@ -1,6 +1,6 @@
 # Hola!🙂
 
-Mi nombre es Chris Meth, actualmente soy estudiante de Ingeniería Civil en Computación de la Universidad de Chile. Aqui generalmente subo mis tareas o pequeños proyectos que he desarrollado a lo largo de mi vida como developer 
+Mi nombre es Christian Meth, actualmente soy estudiante de Ingeniería Civil en Computación de la Universidad de Chile. Aqui generalmente subo mis tareas o pequeños proyectos que he desarrollado a lo largo de mi vida como developer 
 
 ---
 ### Herramientas que manejo 
